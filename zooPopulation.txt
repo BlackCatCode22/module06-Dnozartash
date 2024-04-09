@@ -1,0 +1,28 @@
+ -+- Super Snazzy New Animal Report -+-
+
+Hyena Habitat:
+Hy01:Shenzi : Birthdate: Mar 20, 2020 : tan color : 70 pounds : from Friguia Park, Tunisia : arriving April 1st, 2024
+Hy02:Banzai : Birthdate: Sep 21, 2012 : brown color : 150 pounds : from Friguia Park, Tunisia : arriving April 1st, 2024
+Hy03:Ed : Birthdate: Mar 20, 2020 : black color : 120 pounds : from Friguia Park, Tunisia : arriving April 1st, 2024
+Hy04:Zig : Birthdate: Unknown : black and tan striped color : 105 pounds : from Friguia Park, Tunisia : arriving April 1st, 2024
+
+Lion Habitat:
+Li01:Scar : Birthdate: Mar 20, 2018 : tan color : 300 pounds : from Zanzibar, Tanzania : arriving April 1st, 2024
+Li02:Mufasa : Birthdate: Dec 21, 2012 : dark tan color : 375 pounds : from KopeLion, Tanzania : arriving April 1st, 2024
+Li03:Simba : Birthdate: Sep 21, 2002 : golden color : 450 pounds : from Zanzibar, Tanzania : arriving April 1st, 2024
+Li04:Kiara : Birthdate: Mar 20, 2020 : tan and brown color : 275 pounds : from KopeLion, Tanzania : arriving April 1st, 2024
+
+Tiger Habitat:
+Ti01:Tony : Birthdate: Mar 20, 2022 : gold and tan stripes color : 270 pounds : from Dhaka, Bangladesh : arriving April 1st, 2024
+Ti02:Tigger : Birthdate: Mar 20, 2020 : black stripes color : 400 pounds : from Dhaka, Bangladesh : arriving April 1st, 2024
+Ti03:Amber : Birthdate: Sep 21, 2006 : gold and tan color : 300 pounds : from Bardia, Nepal : arriving April 1st, 2024
+Ti04:Cosimia : Birthdate: Mar 20, 2021 : black stripes color : 285 pounds : from Bardia, Nepal : arriving April 1st, 2024
+
+Bear Habitat:
+Be01:Yogi : Birthdate: Mar 20, 2017 : brown color : 320 pounds : from Alaska Zoo, Alaska : arriving April 1st, 2024
+Be02:Smokey : Birthdate: Mar 20, 1999 : black color : 425 pounds : from Woodland park Zoo, Washington : arriving April 1st, 2024
+Be03:Paddington : Birthdate: Sep 21, 2020 : black color : 355 pounds : from Woodland park Zoo, Washington : arriving April 1st, 2024
+Be04:Lippy : Birthdate: Mar 20, 2020 : brown color : 405 pounds : from Alaska Zoo, Alaska : arriving April 1st, 2024
+
+Current Species Count: {hyena=4, bear=4, tiger=4, lion=4}
+Total Number of Animals: 16
