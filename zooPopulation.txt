@@ -1,0 +1,27 @@
+Animal Report -+- 
+Hyena Habitat:
+Hy01:Shenzi : Birthdate: Feb 25, 2020 : from Friguia Park, Tunisia : 70 pounds : tan color : arriving April 8, 2024
+Hy02:Banzai : Birthdate: Nov 5, 2012 : from Friguia Park, Tunisia : 150 pounds : brown color : arriving April 8, 2024
+Hy03:Ed : Birthdate: Feb 25, 2020 : from Friguia Park, Tunisia : 120 pounds : black color : arriving April 8, 2024
+Hy04:Zig : Birthdate: Unknown : from Friguia Park, Tunisia : 105 pounds : black and tan striped color : arriving April 8, 2024
+Li01:Scar : Birthdate: Feb 25, 2018 : from Zanzibar, Tanzania : 300 pounds : tan color : arriving April 8, 2024
+
+ Lion Habitat:
+Li02:Mufasa : Birthdate: Dec 27, 2012 : from KopeLion, Tanzania : 375 pounds : dark tan color : arriving April 8, 2024
+Li03:Simba : Birthdate: Nov 5, 2002 : from Zanzibar, Tanzania : 450 pounds : golden color : arriving April 8, 2024
+Li04:Kiara : Birthdate: Feb 25, 2020 : from KopeLion, Tanzania : 275 pounds : tan and brown color : arriving April 8, 2024
+Ti01:Tony : Birthdate: Feb 25, 2022 : from Dhaka, Bangladesh : 270 pounds : gold and tan stripes color : arriving April 8, 2024
+
+ Tiger Habitat:
+Ti02:Tigger : Birthdate: Feb 25, 2020 : from Dhaka, Bangladesh : 400 pounds : black stripes color : arriving April 8, 2024
+Ti03:Amber : Birthdate: Nov 5, 2006 : from Bardia, Nepal : 300 pounds : gold and tan color : arriving April 8, 2024
+Ti04:Cosimia : Birthdate: Feb 25, 2021 : from Bardia, Nepal : 285 pounds : black stripes color : arriving April 8, 2024
+Be01:Yogi : Birthdate: Feb 25, 2017 : from Alaska Zoo, Alaska : 320 pounds : brown color : arriving April 8, 2024
+
+ Bear Habitat:
+Be02:Smokey : Birthdate: Feb 25, 1999 : from Woodland park Zoo, Washington : 425 pounds : black color : arriving April 8, 2024
+Be03:Paddington : Birthdate: Nov 5, 2020 : from Woodland park Zoo, Washington : 355 pounds : black color : arriving April 8, 2024
+Be04:Lippy : Birthdate: Feb 25, 2020 : from Alaska Zoo, Alaska : 405 pounds : brown color : arriving April 8, 2024
+
+Current Species Count: {hyena=4, bear=4, tiger=4, lion=4}
+The total number of animals: 16
